@@ -2237,6 +2237,11 @@ input, select, textarea {
 				background-color: #18bfef;
 			}
 
+
+.center{
+	text-align: center;
+}
+
 /* Form */
 
 	form {
